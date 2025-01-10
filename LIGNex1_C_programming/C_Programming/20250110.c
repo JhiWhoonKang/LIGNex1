@@ -41,8 +41,53 @@ int main(void)
 #endif
 
 #if 01
-// call by reference
-void input_ary(int ***ary, int *N)
+// call by reference]
+ input_ary(int ***ary, int *N)
+{
+    int C;
+    *ary = (int**)malloc(sizeof(int*) * (*N)); // ary => 0x1000 ary+1 => 0x1004
+
+    for (int i = 0;i < *N;++i)
+    {
+        (void)scanf("%d", &C);
+        (*ary)[i] = (int*)malloc(sizeof(int) * (C + 1));
+        (*ary)[i][0] = C;
+        for (int j = 1;j < C + 1;++j)
+        {
+            //scanf("%d", &ary[i][j]);
+            (void)scanf("%d", &(*ary)[i][j]);
+        }
+    }
+}
+
+ input_ary2(int*** array, int* n)
+ {
+     int** ary;
+     int N;
+     int C;
+     *ary = (int**)malloc(sizeof(int*) * (*N)); // ary => 0x1000 ary+1 => 0x1004
+
+     for (int i = 0;i < *N;++i)
+     {
+         (void)scanf("%d", &C);
+         (*ary)[i] = (int*)malloc(sizeof(int) * (C + 1));
+         (*ary)[i][0] = C;
+         for (int j = 1;j < C + 1;++j)
+         {
+             //scanf("%d", &ary[i][j]);
+             (void)scanf("%d", &(*ary)[i][j]);
+         }
+     }
+     *array = ary;
+     *n = N;
+ }
+
+//int** input_ary(int* N)
+//{
+//
+//}
+
+void input_ary(int*** ary, int* N)
 {
     int C;
     *ary = (int**)malloc(sizeof(int*) * (*N)); // ary => 0x1000 ary+1 => 0x1004
