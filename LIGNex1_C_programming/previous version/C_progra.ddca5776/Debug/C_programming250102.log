@@ -1,0 +1,7 @@
+﻿  day07_250110.c
+C:\Users\user\Desktop\강의자료 모음\LIG_C_programming\C_programming250102\day07_250110.c(202,19): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\user\Desktop\강의자료 모음\LIG_C_programming\C_programming250102\day07_250110.c(191,11): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\강의자료 모음\LIG_C_programming\C_programming250102\day07_250110.c(193,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\강의자료 모음\LIG_C_programming\C_programming250102\day07_250110.c(198,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\강의자료 모음\LIG_C_programming\C_programming250102\day07_250110.c(202,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C_programming250102.vcxproj -> C:\Users\user\Desktop\강의자료 모음\LIG_C_programming\C_programming250102\Debug\C_programming250102.exe

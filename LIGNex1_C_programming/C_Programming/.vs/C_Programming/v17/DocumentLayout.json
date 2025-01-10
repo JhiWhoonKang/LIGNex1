@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\LIGNex1_C_programming\\C_Programming\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\LIGNex1_C_programming\\C_Programming\\20250110.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\20250110.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|solutionrelative:20250110.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -29,18 +29,17 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
               "ViewState": "AgIAABsEAAAAAAAAAAAswCsEAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-10T07:05:14.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T07:05:14.936Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "20250110.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\LIGNex1_C_programming\\C_Programming\\20250110.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\20250110.c",
               "RelativeDocumentMoniker": "20250110.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\LIGNex1_C_programming\\C_Programming\\20250110.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\20250110.c",
               "RelativeToolTip": "20250110.c",
-              "ViewState": "AgIAACYAAAAAAAAAAAAmwDkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-01-10T06:12:10.963Z",
               "EditorCaption": ""
