@@ -73,7 +73,7 @@
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
-      <SDLCheck>true</SDLCheck>
+      <SDLCheck>false</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
@@ -128,9 +128,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="20250110.c" />
+    <ClCompile Include="20250113.c" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="data.txt" />
     <Text Include="myfile.txt" />
+    <Text Include="number2.txt" />
+    <Text Include="number3.txt" />
+    <Text Include="student.txt" />
+    <Text Include="student2.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

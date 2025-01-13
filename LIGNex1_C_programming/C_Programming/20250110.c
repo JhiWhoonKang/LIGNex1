@@ -40,7 +40,7 @@ int main(void)
 }
 #endif
 
-#if 01
+#if 0
 // call by reference]
  input_ary(int ***ary, int *N)
 {

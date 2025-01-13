@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\day07_250110.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|solutionrelative:day07_250110.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\myfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|solutionrelative:myfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\day06_250109.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\day06_250109.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|solutionrelative:day06_250109.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\num.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\day07_250110.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|solutionrelative:day07_250110.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\myfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|solutionrelative:myfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\num.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|solutionrelative:num.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\func.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\func.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|solutionrelative:func.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\animal.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\animal.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|solutionrelative:animal.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\day05_250108.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\day05_250108.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DDCA5776-D397-42E0-9E75-6049041F6DCC}|C_programming250102.vcxproj|solutionrelative:day05_250108.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -38,15 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "num.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\num.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\num.c",
               "RelativeDocumentMoniker": "num.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\num.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\num.c",
               "RelativeToolTip": "num.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "func.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\func.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\func.c",
               "RelativeDocumentMoniker": "func.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\func.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\func.c",
               "RelativeToolTip": "func.c",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -66,26 +66,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "myfile.txt",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\myfile.txt",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\myfile.txt",
               "RelativeDocumentMoniker": "myfile.txt",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\myfile.txt",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\myfile.txt",
               "RelativeToolTip": "myfile.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-10T05:25:54.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T05:25:54.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "day07_250110.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\day07_250110.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\day07_250110.c",
               "RelativeDocumentMoniker": "day07_250110.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\day07_250110.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\day07_250110.c",
               "RelativeToolTip": "day07_250110.c",
-              "ViewState": "AgIAALcAAAAAAAAAAIA3wLcAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-01-10T00:57:08.916Z",
               "EditorCaption": ""
@@ -94,9 +93,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "animal.txt",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\animal.txt",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\animal.txt",
               "RelativeDocumentMoniker": "animal.txt",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\animal.txt",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\animal.txt",
               "RelativeToolTip": "animal.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -104,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "day06_250109.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\day06_250109.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\day06_250109.c",
               "RelativeDocumentMoniker": "day06_250109.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\day06_250109.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\day06_250109.c",
               "RelativeToolTip": "day06_250109.c",
-              "ViewState": "AgIAAOYAAAAAAAAAAIA2wPQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAIA0wDIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-01-09T00:56:37.606Z",
               "EditorCaption": ""
@@ -119,9 +118,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "day05_250108.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\day05_250108.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\day05_250108.c",
               "RelativeDocumentMoniker": "day05_250108.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIG_C_programming\\C_programming250102\\day05_250108.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\previous version\\day05_250108.c",
               "RelativeToolTip": "day05_250108.c",
               "ViewState": "AgIAAOoAAAAAAAAAAAAAACIBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",

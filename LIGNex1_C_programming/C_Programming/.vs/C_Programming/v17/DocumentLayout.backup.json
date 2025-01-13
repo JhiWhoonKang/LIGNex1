@@ -3,11 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\20250110.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|solutionrelative:20250110.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\20250113.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|solutionrelative:20250113.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\student2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|solutionrelative:student2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,26 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "stdio.h",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "ViewState": "AgIAABsEAAAAAAAAAAAswCsEAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-10T07:05:14.936Z"
+              "Title": "student2.txt",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\student2.txt",
+              "RelativeDocumentMoniker": "student2.txt",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\student2.txt",
+              "RelativeToolTip": "student2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-13T08:10:30.335Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250110.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\20250110.c",
-              "RelativeDocumentMoniker": "20250110.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\20250110.c",
-              "RelativeToolTip": "20250110.c",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Title": "20250113.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\20250113.c",
+              "RelativeDocumentMoniker": "20250113.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\20250113.c",
+              "RelativeToolTip": "20250113.c",
+              "ViewState": "AgIAAJUDAAAAAAAAAAAmwKgDAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-10T06:12:10.963Z",
+              "WhenOpened": "2025-01-13T00:20:49.729Z",
               "EditorCaption": ""
             }
           ]

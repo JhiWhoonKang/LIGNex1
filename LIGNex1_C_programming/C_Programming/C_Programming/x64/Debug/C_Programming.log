@@ -1,6 +1,10 @@
-﻿  20250110.c
-C:\Users\user\Desktop\강의자료 모음\LIG_C_programming\LIGNex1_C_programming\C_Programming\20250110.c(52,15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\user\Desktop\강의자료 모음\LIG_C_programming\LIGNex1_C_programming\C_Programming\20250110.c(58,19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\user\Desktop\강의자료 모음\LIG_C_programming\LIGNex1_C_programming\C_Programming\20250110.c(67,11): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\user\Desktop\강의자료 모음\LIG_C_programming\LIGNex1_C_programming\C_Programming\20250110.c(68,11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  C_Programming.vcxproj -> C:\Users\user\Desktop\강의자료 모음\LIG_C_programming\LIGNex1_C_programming\C_Programming\x64\Debug\C_Programming.exe
+﻿  20250113.c
+C:\Users\user\Desktop\강의자료 모음\LIGNex1\LIGNex1_C_programming\C_Programming\20250113.c(97,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\user\Desktop\강의자료 모음\LIGNex1\LIGNex1_C_programming\C_Programming\20250113.c(97,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\user\Desktop\강의자료 모음\LIGNex1\LIGNex1_C_programming\C_Programming\20250113.c(97,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+      C:\Users\user\Desktop\강의자료 모음\LIGNex1\LIGNex1_C_programming\C_Programming\20250113.c(97,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+  C_Programming.vcxproj -> C:\Users\user\Desktop\강의자료 모음\LIGNex1\LIGNex1_C_programming\C_Programming\x64\Debug\C_Programming.exe

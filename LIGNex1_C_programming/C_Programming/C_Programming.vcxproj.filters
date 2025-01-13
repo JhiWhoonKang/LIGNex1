@@ -18,8 +18,16 @@
     <ClCompile Include="20250110.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="20250113.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="myfile.txt" />
+    <Text Include="number2.txt" />
+    <Text Include="number3.txt" />
+    <Text Include="data.txt" />
+    <Text Include="student.txt" />
+    <Text Include="student2.txt" />
   </ItemGroup>
 </Project>
