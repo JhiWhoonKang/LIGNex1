@@ -916,7 +916,7 @@ void print_data2(struct student* stu, int size)
 }
 #endif
 
-#if 01
+#if 0
 typedef struct {
 	unsigned int blue : 8;
 	unsigned int green : 8;

@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\20250114.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|solutionrelative:20250114.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\20250113.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|solutionrelative:20250113.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\wrong.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|solutionrelative:wrong.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\myheader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|solutionrelative:myheader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\my_arylib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|solutionrelative:my_arylib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\my_arylib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|solutionrelative:my_arylib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\student2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|solutionrelative:student2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\student3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5CB34AB1-10BE-43A8-B33F-28767A433BB7}|C_Programming.vcxproj|solutionrelative:student3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +42,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "wrong.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\wrong.h",
+              "RelativeDocumentMoniker": "wrong.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\wrong.h",
+              "RelativeToolTip": "wrong.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T08:36:45.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "myheader.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\myheader.h",
+              "RelativeDocumentMoniker": "myheader.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\myheader.h",
+              "RelativeToolTip": "myheader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T08:31:55.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "my_arylib.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\my_arylib.h",
+              "RelativeDocumentMoniker": "my_arylib.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\my_arylib.h",
+              "RelativeToolTip": "my_arylib.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T06:15:17.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "my_arylib.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\my_arylib.c",
+              "RelativeDocumentMoniker": "my_arylib.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\my_arylib.c",
+              "RelativeToolTip": "my_arylib.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-14T06:14:09.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "student3.txt",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\student3.txt",
+              "RelativeDocumentMoniker": "student3.txt",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\student3.txt",
+              "RelativeToolTip": "student3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-14T00:04:49.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250114.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\20250114.c",
+              "RelativeDocumentMoniker": "20250114.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\20250114.c",
+              "RelativeToolTip": "20250114.c",
+              "ViewState": "AgIAAOwBAAAAAAAAAAAAAGECAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-14T00:03:23.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "student2.txt",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\student2.txt",
               "RelativeDocumentMoniker": "student2.txt",
@@ -35,13 +137,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "20250113.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\20250113.c",
               "RelativeDocumentMoniker": "20250113.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\20250113.c",
               "RelativeToolTip": "20250113.c",
-              "ViewState": "AgIAAJUDAAAAAAAAAAAmwJ4DAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAKMDAAAAAAAAAAAvwPEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-01-13T00:20:49.729Z",
               "EditorCaption": ""

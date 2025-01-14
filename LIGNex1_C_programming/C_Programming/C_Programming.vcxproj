@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="20250110.c" />
     <ClCompile Include="20250113.c" />
+    <ClCompile Include="20250114.c" />
+    <ClCompile Include="my_arylib.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="data.txt" />
@@ -137,6 +139,12 @@
     <Text Include="number3.txt" />
     <Text Include="student.txt" />
     <Text Include="student2.txt" />
+    <Text Include="student3.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="myheader.h" />
+    <ClInclude Include="my_arylib.h" />
+    <ClInclude Include="wrong.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
