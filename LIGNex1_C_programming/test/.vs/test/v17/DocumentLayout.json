@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_JHIWHOON_ws\\github_ws\\LIGNex1\\LIGNex1_C_programming\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4067C801-61FF-4FA7-A627-77AC0C4D906C}|test.vcxproj|D:\\_JHIWHOON_ws\\github_ws\\LIGNex1\\LIGNex1_C_programming\\test\\20240111.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4067C801-61FF-4FA7-A627-77AC0C4D906C}|test.vcxproj|solutionrelative:20240111.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240111.c",
+              "DocumentMoniker": "D:\\_JHIWHOON_ws\\github_ws\\LIGNex1\\LIGNex1_C_programming\\test\\20240111.c",
+              "RelativeDocumentMoniker": "20240111.c",
+              "ToolTip": "D:\\_JHIWHOON_ws\\github_ws\\LIGNex1\\LIGNex1_C_programming\\test\\20240111.c",
+              "RelativeToolTip": "20240111.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-11T04:17:31.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
