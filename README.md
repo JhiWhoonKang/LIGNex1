@@ -13,10 +13,10 @@
 <img src="https://img.shields.io/badge/TOOL-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
 
 
-* #### 방위 산업의 이해
-* #### 컴퓨터구조 및 운영체제
-* #### 임베디드 소프트웨어 개발 C 
-* #### 자료구조 및 알고리즘
+* #### [방위 산업의 이해](https://harmonious-file-909.notion.site/169ee5524d6580e5b5d7fa8f5694d34c)
+* #### [컴퓨터구조 및 운영체제](https://harmonious-file-909.notion.site/169ee5524d6580dda6c3c25be8dea077)
+* #### [임베디드 소프트웨어 개발 C](https://harmonious-file-909.notion.site/C-173ee5524d658032bc9afcc27e8d0737)
+* #### [자료구조 및 알고리즘](https://harmonious-file-909.notion.site/C-17cee5524d6580759560f35ba0d224b4)
 * #### 임베디드 소프트웨어 개발 C++
 * #### GUI 프로그래밍
 * #### 방산 소프트웨어 요구사항 분석 설계
