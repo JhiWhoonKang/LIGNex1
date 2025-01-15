@@ -1,11 +1,11 @@
 # LIGNex1
 
-LIG Nex1 임베디드 소프트웨어 캠프 관련 자료입니다.
+**LIG Nex1 임베디드 소프트웨어 캠프** 관련 자료입니다.
 
 
 #### 교육 기간<br/>2024.12. ~ 2025.06. (1,000H)
 #### 📝 배움의 흔적들 바로가기
-[![노션 바로가기](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=000000)](https://harmonious-file-909.notion.site/LIG-Nex1-167ee5524d6580c492faedfd07ab17a8?pvs=74)
+[![노션 바로가기](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=000000)](https://harmonious-file-909.notion.site/LIG-Nex1-167ee5524d6580c492faedfd07ab17a8?pvs=74) ← *클릭*
 
 # Studying
 <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/C-004482?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <br/>
@@ -35,11 +35,3 @@ LIG Nex1 임베디드 소프트웨어 캠프 관련 자료입니다.
   * #### RTOS 기반의 실시간 서보제어 프로그램 개발
   * #### 유도무기체계 연동네트워크 프로토콜 설계 구현
   * #### 전자전 수신기용 데이터처리기 설계 구현
- 
-# Studying
-<img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge">
-<img src="https://img.shields.io/badge/C-004482?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
