@@ -27,6 +27,18 @@
     <ClCompile Include="my_arylib.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="20250115.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="a.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="b.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="empty.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="myfile.txt" />
@@ -45,6 +57,15 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="wrong.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="point.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="line.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="a.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
