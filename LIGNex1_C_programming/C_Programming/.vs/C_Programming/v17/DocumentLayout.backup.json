@@ -3,16 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\C_Programming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B62263DD-2CDF-44D6-8066-DC628E1FD62F}|..\\Data_structure\\Data_structure.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\2667.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B62263DD-2CDF-44D6-8066-DC628E1FD62F}|..\\Data_structure\\Data_structure.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\day02_250116.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B62263DD-2CDF-44D6-8066-DC628E1FD62F}|..\\Data_structure\\Data_structure.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\data_2667.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B62263DD-2CDF-44D6-8066-DC628E1FD62F}|..\\Data_structure\\Data_structure.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\SLL_2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B62263DD-2CDF-44D6-8066-DC628E1FD62F}|..\\Data_structure\\Data_structure.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\day10_250115.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B62263DD-2CDF-44D6-8066-DC628E1FD62F}|..\\Data_structure\\Data_structure.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\SLL_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B62263DD-2CDF-44D6-8066-DC628E1FD62F}|..\\Data_structure\\Data_structure.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\2563.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B62263DD-2CDF-44D6-8066-DC628E1FD62F}|..\\Data_structure\\Data_structure.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\SLL.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62263DD-2CDF-44D6-8066-DC628E1FD62F}|..\\Data_structure\\Data_structure.vcxproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\SLL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,58 +25,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "data_2667.txt",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\data_2667.txt",
-              "RelativeDocumentMoniker": "..\\Data_structure\\data_2667.txt",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\data_2667.txt",
-              "RelativeToolTip": "..\\Data_structure\\data_2667.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-15T08:18:13.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "2667.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\2667.c",
-              "RelativeDocumentMoniker": "..\\Data_structure\\2667.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\2667.c",
-              "RelativeToolTip": "..\\Data_structure\\2667.c",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAhwB0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-15T08:01:46.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "2563.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\2563.c",
-              "RelativeDocumentMoniker": "..\\Data_structure\\2563.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\2563.c",
-              "RelativeToolTip": "..\\Data_structure\\2563.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-15T03:26:52.376Z",
+              "Title": "SLL_2.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\SLL_2.h",
+              "RelativeDocumentMoniker": "..\\Data_structure\\SLL_2.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\SLL_2.h",
+              "RelativeToolTip": "..\\Data_structure\\SLL_2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-16T05:43:23.905Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "day10_250115.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\day10_250115.c",
-              "RelativeDocumentMoniker": "..\\Data_structure\\day10_250115.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\day10_250115.c",
-              "RelativeToolTip": "..\\Data_structure\\day10_250115.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAMAAAAAAAAAA==",
+              "Title": "SLL_2.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\SLL_2.c",
+              "RelativeDocumentMoniker": "..\\Data_structure\\SLL_2.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\SLL_2.c",
+              "RelativeToolTip": "..\\Data_structure\\SLL_2.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-15T01:40:42.773Z",
+              "WhenOpened": "2025-01-16T05:43:12.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "day02_250116.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\day02_250116.c",
+              "RelativeDocumentMoniker": "..\\Data_structure\\day02_250116.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\day02_250116.c",
+              "RelativeToolTip": "..\\Data_structure\\day02_250116.c",
+              "ViewState": "AgIAAIsAAAAAAAAAAAA3wKAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T01:42:41.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SLL.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\SLL.c",
+              "RelativeDocumentMoniker": "..\\Data_structure\\SLL.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\SLL.c",
+              "RelativeToolTip": "..\\Data_structure\\SLL.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T01:05:52.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SLL.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\SLL.h",
+              "RelativeDocumentMoniker": "..\\Data_structure\\SLL.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_C_programming\\Data_structure\\SLL.h",
+              "RelativeToolTip": "..\\Data_structure\\SLL.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-16T01:06:32.838Z",
               "EditorCaption": ""
             }
           ]

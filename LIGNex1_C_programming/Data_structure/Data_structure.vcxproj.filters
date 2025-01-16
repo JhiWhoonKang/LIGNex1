@@ -24,8 +24,25 @@
     <ClCompile Include="2667.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="SLL.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day02_250116.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SLL_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="data_2667.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SLL.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SLL_2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

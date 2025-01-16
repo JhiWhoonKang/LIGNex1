@@ -131,10 +131,17 @@
   <ItemGroup>
     <ClCompile Include="2563.c" />
     <ClCompile Include="2667.c" />
+    <ClCompile Include="day02_250116.c" />
     <ClCompile Include="day10_250115.c" />
+    <ClCompile Include="SLL.c" />
+    <ClCompile Include="SLL_2.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="data_2667.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SLL.h" />
+    <ClInclude Include="SLL_2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
