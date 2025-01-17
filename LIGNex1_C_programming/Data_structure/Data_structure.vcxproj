@@ -129,6 +129,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1406.c" />
     <ClCompile Include="2563.c" />
     <ClCompile Include="2667.c" />
     <ClCompile Include="day02_250116.c" />

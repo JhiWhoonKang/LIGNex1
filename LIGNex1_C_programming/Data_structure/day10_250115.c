@@ -239,7 +239,7 @@ int main() {
 }
 #endif
 
-#if 01
+#if 0
 int N, i;
 int nums[] = { 0 };
 
@@ -255,7 +255,7 @@ void make_nums(int L)
         print_nums();
         return;
     }
-    nums[L] = 0;
+    nums[L] = 0; //[0]: 0 [1]: 0 [2]: 0 [3]: 0 [4]: 0 ÀÌÈÄ return
     make_nums(L + 1);
     nums[L] = 1;
     make_nums(L + 1);
