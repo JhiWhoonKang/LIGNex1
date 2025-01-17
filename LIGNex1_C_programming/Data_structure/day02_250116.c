@@ -150,7 +150,7 @@ int main(void)
 }
 #endif
 #include <stdio.h>
-#if 01
+#if 0
 int main(void)
 {
 	int i = 5;

@@ -33,6 +33,12 @@
     <ClCompile Include="SLL_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="day12_20250117.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DLL.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="data_2667.txt" />
@@ -42,6 +48,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="SLL_2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DLL.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

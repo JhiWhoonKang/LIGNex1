@@ -133,6 +133,8 @@
     <ClCompile Include="2667.c" />
     <ClCompile Include="day02_250116.c" />
     <ClCompile Include="day10_250115.c" />
+    <ClCompile Include="day12_20250117.c" />
+    <ClCompile Include="DLL.c" />
     <ClCompile Include="SLL.c" />
     <ClCompile Include="SLL_2.c" />
   </ItemGroup>
@@ -140,6 +142,7 @@
     <Text Include="data_2667.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DLL.h" />
     <ClInclude Include="SLL.h" />
     <ClInclude Include="SLL_2.h" />
   </ItemGroup>

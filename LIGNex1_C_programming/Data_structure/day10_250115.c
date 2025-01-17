@@ -191,3 +191,81 @@ int main(void)
     return 0;
 }
 #endif
+
+#if 0
+
+int main(void)
+{
+    int N, index;
+    (void)scanf("%d", &N);
+
+    int arr[5] = { 0 };
+    for (index = 0;N != 0;N /= 2, ++index)
+    {
+        arr[index] = N % 2;
+    }
+    for (index = 3;index >= 0;--index)
+    {
+        printf("%d", arr[index]);
+    }
+
+    return 0;
+}
+
+#endif
+
+#if 0
+int main() {
+    int num; // 변환할 숫자
+    int digit = 0;   
+    (void)scanf("%d", &num);
+    int tmp = num;
+    // 숫자의 비트를 카운트하여 자릿수(digit) 계산
+    while (tmp > 0) {
+        tmp >>= 1;
+        digit++;
+    }
+
+    printf("to binary %d: ", num);
+
+    // 2진수 출력
+    for (int i = digit - 1; i >= 0; i--) {
+        printf("%d", (num >> i) & 1); // 
+    }
+
+    printf("\n");
+
+    return 0;
+}
+#endif
+
+#if 01
+int N, i;
+int nums[] = { 0 };
+
+void print_nums()
+{
+
+}
+
+void make_nums(int L)
+{
+    if (L >= N)
+    {
+        print_nums();
+        return;
+    }
+    nums[L] = 0;
+    make_nums(L + 1);
+    nums[L] = 1;
+    make_nums(L + 1);
+}
+
+int main(void)
+{    
+    (void)scanf("%d", &N);
+    make_nums(0);
+    
+    return 0;
+}
+#endif
