@@ -1,5 +1,4 @@
 ﻿  1406.c
-C:\Users\user\Desktop\강의자료 모음\LIGNex1\LIGNex1_C_programming\Data_structure\1406.c(14,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-  day10_250115.c
+  2563.c
   코드를 생성하고 있습니다...
-  Data_structure.vcxproj -> C:\Users\user\Desktop\강의자료 모음\LIGNex1\LIGNex1_C_programming\C_Programming\Debug\Data_structure.exe
+  Data_structure.vcxproj -> D:\_JHIWHOON_ws\github_ws\LIGNex1\LIGNex1_C_programming\C_Programming\Debug\Data_structure.exe

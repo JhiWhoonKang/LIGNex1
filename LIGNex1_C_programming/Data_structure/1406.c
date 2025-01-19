@@ -1,116 +1,201 @@
+//https://www.acmicpc.net/problem/1406
+/*
+* 초기 cursor 위치: 맨 뒤
+* 최대 600,000 글자
+* L -> cursor->왼쪽 이동
+* D -> cursor->오른쪽 이동
+* B -> cursor 왼쪽 문자 삭제
+* P _ -> cursor 왼쪽 문자 _ 추가
+*/
+#if 0
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
 
-#if 01
-typedef int ElementType;
+#define MAX_LEN 600000
+
+typedef char ElementType;
 
 typedef struct _node
 {
-	ElementType data;
+	char data;
+	struct _node* prev;
 	struct _node* next;
 }Node;
 
-typedef struct _queue
+typedef struct _bus
 {
-	Node* front;
-	Node* rear;
-	int count;
-}ListQueue;
+	Node* head;
+	Node* tail;
+	Node* cursor;
+}Bus;
 
-ListQueue* LQ_CreateQueue(void)
+Node* createNode(char data)
 {
-	ListQueue* temp;
-	temp = (ListQueue*)calloc(1, sizeof(ListQueue));
-	if (temp == NULL)
+	Node* newnode = (Node*)calloc(1, sizeof(Node));
+	if (!newnode)
 	{
-		printf("메모리 부족!\n");
-		return NULL;
+		printf("Memory Allocation Failed\n");
+		exit(1);
 	}
-	temp->front = NULL;
-	temp->rear = NULL;
-	temp->count = 0;
-	return temp;
+
+	newnode->data = data;
+	return newnode;
 }
 
-Node* LQ_CreateNode(ElementType data)
+Bus* createBus(char* input)
 {
-	Node* temp;
-	temp = (Node*)calloc(1, sizeof(Node));
-	if (temp == NULL)
+	Bus* bus = (Bus*)calloc(1, sizeof(Bus));
+	if (!bus)
 	{
-		printf("메모리 부족2\n");
-		return NULL;
+		printf("Memory Allocation Failed\n");
+		exit(1);
 	}
-	temp->data = data;
-	temp->next = NULL;
-	return temp;
+	for (int i = 0; input[i] != '\0'; ++i)
+	{
+		Node* newnode = createNode(input[i]);
+		if (!bus->head)
+		{
+			bus->head = newnode;
+			bus->tail = newnode;
+		}
+		else
+		{
+			bus->tail->next = newnode;
+			newnode->prev = bus->tail;
+			bus->tail = newnode;
+		}
+	}
+	bus->cursor = bus->tail;
+	return bus;
 }
 
-// rear의 뒤에 추가
-// 초기에는 rear가 NULL
-void LQ_EnQueue(ListQueue* Queue, Node* newnode)
+void Left(Bus* bus)
 {
-	if (newnode == NULL) return;
-	if (Queue->count == 0)	//	Queue->rear == NULL, Queue->front == NULL
-	{
-		Queue->front = newnode;
-	}
-	else
-	{
-		Queue->rear->next = newnode;
-	}
-	//Node** temp = (Queue->count) ? &Queue->rear->next : &Queue->front;
-	//*temp = newnode;
-	Queue->rear = newnode;
-	++Queue->count;
+	bus->cursor = bus->cursor->prev;
 }
 
-ElementType LQ_DeQueue(ListQueue* Queue)
+void Right(Bus* bus)
 {
-	if (Queue->count == 0)
+	if (bus->cursor == NULL)
 	{
-		printf("Queue Empty!");
-		return NULL;
+		return;
 	}
-	ElementType temp = Queue->front->data;
-	if (Queue->count == 1)
-	{
-		Queue->rear = NULL;
-		Queue->count = 0;
-	}
-	Queue->front = Queue->front->next;
-	--Queue->count;
-	if (!Queue->count)Queue->rear = NULL;
-	return temp;
+	bus->cursor = bus->cursor->next;
 }
 
-void LQ_print(ListQueue* Queue)
+// cursor 왼쪽 추가 => cursor->prev
+void Insert(Bus* bus, char data)
 {
-	Node* curr;
-	for (curr = Queue->front;curr != NULL;curr = curr->next)
+	Node* newnode = createNode(data);
+
+	if (bus->cursor == bus->tail) {
+		newnode->next = bus->cursor;
+		newnode->prev = bus->cursor->prev;
+		if (bus->tail) {
+			bus->tail->prev = newnode;
+			newnode->next = bus->tail;
+		}
+		else {
+			bus->head = newnode;
+			bus->tail = newnode;
+		}
+	}
+	else {
+		newnode->next = bus->cursor;
+		newnode->prev = bus->cursor->prev;
+		if (bus->cursor->prev) 
+		{
+			bus->cursor->prev->next = newnode;
+		}
+		else 
+		{
+			bus->head = newnode;
+		}
+		bus->cursor->prev = newnode;
+	}
+}
+
+void delete(Bus* bus)
+{
+	if (bus->cursor->prev)
 	{
-		printf("%d ", curr->data);
+		Node* deletenode = bus->cursor->prev;
+		if (deletenode->prev)
+		{
+			deletenode->prev->next = bus->cursor;
+		}
+		else
+		{
+			bus->head = bus->cursor;
+		}
+		bus->cursor->prev = deletenode->prev;
+		free(deletenode);
+	}
+}
+
+void freeBus(Bus** bus)
+{	
+	free(*bus);
+	*bus = NULL;
+}
+
+void printBus(Bus* bus)
+{
+	Node* current = bus->head;
+	while (current) 
+	{
+		printf("%c", current->data);
+		current = current->next;
 	}
 	printf("\n");
 }
 
-void searching(char name)
-{
-	
-}
-
 int main(void)
 {
-	char input;
-	(void)scanf("%s", &input);
-	char c;
-	for (c != '\n')
-	{
+	char input[MAX_LEN + 1];
+	int cmd_cnt;
 
+	(void)scanf("%s", input);
+	(void)scanf("%d", &cmd_cnt);
+
+	Bus* bus = createBus(input);
+
+	for (int i = 0; i < cmd_cnt; ++i)
+	{
+		char cmd;
+		(void)scanf(" %c", &cmd);
+
+		if (cmd == 'L')
+		{
+			Left(bus);
+		}
+		else if (cmd == 'D')
+		{
+			Right(bus);
+		}
+		else if (cmd == 'B')
+		{
+			delete(bus);
+		}
+		else if (cmd == 'P')
+		{
+			char data;
+			(void)scanf(" %c", &data);
+			Insert(bus, data);
+		}
+		else
+		{
+			return 0;
+		}
 	}
+
+	printBus(bus);
+	freeBus(&bus);
+
+	return 0;
 }
 
 #endif
