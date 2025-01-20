@@ -10,6 +10,8 @@ int cnt;
 int danji[(25 * 25) / 2];
 int danji_cnt;
 
+
+
 void input_data(void)
 {
 	int i, j;

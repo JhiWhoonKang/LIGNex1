@@ -74,12 +74,16 @@ Bus* createBus(char* input)
 
 void Left(Bus* bus)
 {
-	bus->cursor = bus->cursor->prev;
+	if (bus->cursor == bus->head)
+	{
+		return;
+	}
+	bus->cursor = bus->cursor->prev;	
 }
 
 void Right(Bus* bus)
 {
-	if (bus->cursor == NULL)
+	if (bus->cursor == bus->head)
 	{
 		return;
 	}
@@ -104,6 +108,10 @@ void Insert(Bus* bus, char data)
 		}
 	}
 	else {
+		if (bus->cursor == bus->head)
+		{
+			
+		}
 		newnode->next = bus->cursor;
 		newnode->prev = bus->cursor->prev;
 		if (bus->cursor->prev) 
@@ -161,7 +169,7 @@ int main(void)
 	(void)scanf("%s", input);
 	(void)scanf("%d", &cmd_cnt);
 
-	Bus* bus = createBus(input);
+	Bus*  bus = createBus(input);
 
 	for (int i = 0; i < cmd_cnt; ++i)
 	{
