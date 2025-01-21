@@ -138,16 +138,20 @@
     <ClCompile Include="day12_20250117.c" />
     <ClCompile Include="day13_20250120.c" />
     <ClCompile Include="DLL.c" />
+    <ClCompile Include="Heap.c" />
     <ClCompile Include="Queue_t1.c" />
     <ClCompile Include="SLL.c" />
     <ClCompile Include="SLL_2.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="7576.txt" />
+    <Text Include="data_1715.txt" />
     <Text Include="data_2667.txt" />
+    <Text Include="data_heap.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DLL.h" />
+    <ClInclude Include="Heap.h" />
     <ClInclude Include="Queue_t1.h" />
     <ClInclude Include="SLL.h" />
     <ClInclude Include="SLL_2.h" />

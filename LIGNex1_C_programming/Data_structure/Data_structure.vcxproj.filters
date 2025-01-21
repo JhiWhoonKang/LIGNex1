@@ -51,10 +51,15 @@
     <ClCompile Include="day13_20250120.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Heap.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="data_2667.txt" />
     <Text Include="7576.txt" />
+    <Text Include="data_heap.txt" />
+    <Text Include="data_1715.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SLL.h">
@@ -67,6 +72,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Queue_t1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Heap.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
