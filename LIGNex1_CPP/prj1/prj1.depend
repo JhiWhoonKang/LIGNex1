@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1737514188 source:c:\users\user\desktop\강의자료 모음\lig_cpp\prj1\main.cpp
+	"member.h"
+
+1737514226 c:\users\user\desktop\강의자료 모음\lig_cpp\prj1\member.h
+	<iostream>
+	<string>
+
