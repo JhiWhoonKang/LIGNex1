@@ -1,177 +1,234 @@
 #include <iostream>
-#include <vector>
-
-#define MAX_ADDRESS_BOOK_SIZE 10
-
+#include <string>
 using namespace std;
 
-class Member{
+class Storage {
+private:
+    int id;
     string name;
-    string tel;
-    string addr;
+    string phone;
+
 public:
-    void inputData(string n, string t, string a)
+    Storage()
     {
-        name=n;
-        tel=t;
-        addr=a;
-    }
-    void printData()
-    {
-        cout<<"name: "<<name<<endl;
-        cout<<"tel: "<<tel<<endl;
-        cout<<"addr: "<<addr<<endl;
+        id = -1;
+        name = "";
+        phone = "";
     }
 
+    int getId() const
+    {
+        return id;
+    }
+    string getName() const
+    {
+        return name;
+    }
+    string getPhone() const
+    {
+        return phone;
+    }
+
+    void setPhone(string newPhone)
+    {
+        phone = newPhone;
+    }
+
+    void setStorage(int newId, string newName, string newPhone)
+    {
+        id = newId;
+        name = newName;
+        phone = newPhone;
+    }
+
+    void clearStorage()
+    {
+        id = -1;
+    }
+
+    bool ValidID() const
+    {
+        return id != -1;
+    }
+
+    void printStorage ()const
+    {
+        cout << "ID: " << id << ", Name: " << name << ", Phone: " << phone << endl;
+    }
 };
 
-class Student{
-    string tel;
-    string name;
-    int score;
-public:
-    void inputData(string t, string n, int k, int e, int m)
-    {
+class AddressBook {
+private:
+    Storage storage[10];
+    int cnt;
 
-        tel=t;
-        name=n;
-        score=k+e+m;
-    }
-    void printData()
+    int FindID(int id) const
     {
-        cout<<"tel: "<<tel<<endl;
-        cout<<"name: "<<name<<endl;
-        cout<<"score: "<<score<<endl;
+        for (int i = 0; i < 10; ++i)
+        {
+            if (storage[i].ValidID() && storage[i].getId() == id)
+            {
+                return i;
+            }
+        }
+        return -1;
     }
 
-};
-
-class AddressBook{
-    int idx[MAX_ADDRESS_BOOK_SIZE];
-    string name[MAX_ADDRESS_BOOK_SIZE];
-    string tel[MAX_ADDRESS_BOOK_SIZE];
 public:
-    /*
     AddressBook()
     {
-        idx = -1;
-        name = "";
-        tel = "";
-    }
-    */
-    void inputData(int i, string n, string t)
-    {
-        if(i > 10)
-        {
-            cout<< "only 10 people Max" <<endl;
-        }
-        idx[i] = i;
-        name[i] = n;
-        tel[i] = t;
+        cnt = 0;
     }
 
-    void Search(int i)
+    void Add(int id, string name, string phone)
     {
-        string result;
-        if(idx[i] == NULL)\
+        if (cnt >= 10)
         {
-            cout << "not found" <<"\n";
-        }
-        cout << "Print Inform. => " << name[i] << tel[i] << "\n";
-    }
-    void ConfigTel(int i, string t)
-    {
-        if(!idx[i])
-        {
+            cout << "max " << endl;
             return;
         }
-        tel[i] = t;
-    }
-    void Del(int i)
-    {
-        if(!idx[i])
+
+        if (FindID(id) != -1)
         {
+            cout << "Invalid ID" << endl;
             return;
         }
-        idx[i] = -1;
-        name[i] = "";
-        tel[i] = "";
-        cout<<"Deleted"<<"\n";
-    }
-    void PrintAll()
-    {
-        for(int i=0; i<MAX_ADDRESS_BOOK_SIZE; ++i)
+
+        for (int i = 0; i < 10; ++i)
         {
-            cout <<"number: " << idx[i] << ", name: " << name[i] << ", phone: " << tel[i] << "\n";
+            if (!storage[i].ValidID())
+            {
+                storage[i].setStorage(id, name, phone);
+                ++cnt;
+                cout << "Success" << endl;
+                return;
+            }
+        }
+    }
+
+    void Search (int id)const
+    {
+        int index = FindID(id);
+        if (index != -1)
+        {
+            storage[index].printStorage();
+        }
+        else
+        {
+            cout << "Not found" << endl;
+        }
+    }
+
+    void Update(int id, string newPhone)
+    {
+        int index = FindID(id);
+        if (index != -1)
+        {
+            storage[index].setPhone(newPhone);
+            cout << "Updated" << endl;
+        }
+        else
+        {
+            cout << "Not found" << endl;
+        }
+    }
+
+    void Delete(int id)
+    {
+        int index = FindID(id);
+        if (index != -1)
+        {
+            storage[index].clearStorage();
+            --cnt;
+            cout << "deleted successfully." << endl;
+        }
+        else
+        {
+            cout << "not found." << endl;
+        }
+    }
+
+    void PrintAll ()const
+    {
+        if (cnt == 0)
+        {
+            cout << "empty." << endl;
+            return;
+        }
+
+        for (int i = 0; i < 10; ++i)
+        {
+            if (storage[i].ValidID())
+            {
+                storage[i].printStorage();
+            }
         }
     }
 };
 
 int main()
 {
-    Member m1;
-    m1.inputData("aaa", "111","Korea");
-    m1.printData();
+    AddressBook addressBook;
+    int num, id;
+    string name, phone;
 
-    Member *m2=new Member();
-    m2->inputData("bbb", "222", "Guro");
-    m2->printData();
-
-    #if 0
-    cout<<"student class code"<<endl;
-    string tel, name;
-    int kor, eng, math;
-    cout<<"telephone number, name, Korean, English, Math score 순으로 작성"<<endl;
-    cin>>tel>>name>>kor>>eng>>math;
-
-    Student *student[3];
-    for(int i=0;i<3;++i)
+    while (num != 6)
     {
-        student[i] = new Student();
-        student[i]->inputData(tel, name, kor, eng, math);
-        student[i]->printData();
+        cout << "======LIG Nex1 C++ Address Book HW======";
+        cout << "\nAddress Book\n";
+        cout << "1. Add\n";
+        cout << "2. Search\n";
+        cout << "3. Update\n";
+        cout << "4. Delete\n";
+        cout << "5. Print All\n";
+        cout << "6. Exit\n";
+        cout << "Enter number: ";
+        cin >> num;
+
+        switch (num) {
+            case 1:
+                cout << "Enter ID: ";
+                cin >> id;
+                cout << "Enter Name: ";
+                cin>>name;
+                cout << "Enter Phone: ";
+                cin>>phone;
+
+                addressBook.Add(id, name, phone);
+                break;
+
+            case 2:
+                cout << "Search ID: ";
+                cin >> id;
+                addressBook.Search(id);
+                break;
+
+            case 3:
+                cout << "New ID: ";
+                cin >> id;
+                cout << "New Phone: ";
+                cin >> phone;
+                addressBook.Update(id, phone);
+                break;
+
+            case 4:
+                cout << "Delete ID: ";
+                cin >> id;
+                addressBook.Delete(id);
+                break;
+
+            case 5:
+                addressBook.PrintAll();
+                break;
+
+            case 6:
+                cout << "bye" << endl;
+                break;
+
+            default:
+                cout << "?" << endl;
+        }
     }
-    #endif
-
-
-    #if 01
-    AddressBook *ab[MAX_ADDRESS_BOOK_SIZE];
-
-    for(int i=0;i<MAX_ADDRESS_BOOK_SIZE; ++i)
-    {
-        string name, phone;
-        ab[i] = new AddressBook();
-        cout<<"Wrtie your name and phone number: "<<"\n";
-        cin>>name>>phone;
-        ab[i]->inputData(i, name, phone);
-    }
-
-    string cmd;
-    while(true)
-    {
-        cin>>string;
-        if(cmd.== "search")
-        {
-
-        }
-        else if(cmd == "edit")
-        {
-
-        }
-        else if(cmd == "del")
-        {
-
-        }
-        else if(cmd == "print")
-        {
-
-        }
-        else
-        {
-            break;
-        }
-    }
-    #endif // 01
 
     return 0;
 }
