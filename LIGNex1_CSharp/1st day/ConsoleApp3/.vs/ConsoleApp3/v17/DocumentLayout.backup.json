@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\source\\repos\\ConsoleApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D911BE6-EC89-43A9-B3D6-A59E007965C2}|ConsoleApp3\\ConsoleApp3.vbproj|c:\\users\\user1\\source\\repos\\consoleapp3\\consoleapp3\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9D911BE6-EC89-43A9-B3D6-A59E007965C2}|ConsoleApp3\\ConsoleApp3.vbproj|solutionrelative:consoleapp3\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.vb",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.vb",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.vb",
+              "RelativeToolTip": "ConsoleApp3\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-03T02:34:57.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

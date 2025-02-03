@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\source\\repos\\ConsoleApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC868411-9126-44BF-8407-CB62ED849AE5}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\user1\\source\\repos\\consoleapp5\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC868411-9126-44BF-8407-CB62ED849AE5}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC868411-9126-44BF-8407-CB62ED849AE5}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\user1\\source\\repos\\consoleapp5\\consoleapp5\\pocketmon2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC868411-9126-44BF-8407-CB62ED849AE5}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\pocketmon2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC868411-9126-44BF-8407-CB62ED849AE5}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\user1\\source\\repos\\consoleapp5\\consoleapp5\\pocketmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC868411-9126-44BF-8407-CB62ED849AE5}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\pocketmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PocketMon2.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ConsoleApp5\\ConsoleApp5\\PocketMon2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\PocketMon2.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ConsoleApp5\\ConsoleApp5\\PocketMon2.cs",
+              "RelativeToolTip": "ConsoleApp5\\PocketMon2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:21:10.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PocketMon.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ConsoleApp5\\ConsoleApp5\\PocketMon.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\PocketMon.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ConsoleApp5\\ConsoleApp5\\PocketMon.cs",
+              "RelativeToolTip": "ConsoleApp5\\PocketMon.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAgwAgBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:34:20.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "RelativeToolTip": "ConsoleApp5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:33:47.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
