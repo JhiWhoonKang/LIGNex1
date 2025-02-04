@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\source\\repos\\2day\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4AE3C7-4441-48ED-898C-2E7497001DDE}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\user1\\source\\repos\\2day\\consoleapp4\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4AE3C7-4441-48ED-898C-2E7497001DDE}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4AE3C7-4441-48ED-898C-2E7497001DDE}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\user1\\source\\repos\\2day\\consoleapp4\\consoleapp4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4AE3C7-4441-48ED-898C-2E7497001DDE}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\2day\\ConsoleApp4\\ConsoleApp4\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Product.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\2day\\ConsoleApp4\\ConsoleApp4\\Product.cs",
+              "RelativeToolTip": "ConsoleApp4\\Product.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAqwMcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T03:00:57.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\2day\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\2day\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T03:00:37.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

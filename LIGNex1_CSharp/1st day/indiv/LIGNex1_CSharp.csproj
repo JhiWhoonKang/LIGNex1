@@ -45,10 +45,12 @@
   <ItemGroup>
     <None Include="Program.cs" />
     <None Include="20250203_2.cs" />
-    <Compile Include="20250203_3.cs" />
+    <None Include="20250203_3.cs" />
+    <Compile Include="day2.cs" />
     <Compile Include="Parent.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="pocketmon.cs" />
+    <Compile Include="ProductManage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
