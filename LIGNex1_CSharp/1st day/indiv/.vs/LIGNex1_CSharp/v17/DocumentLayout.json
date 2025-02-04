@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{449C9831-B813-46F9-A8D8-F663EF099892}|LIGNex1_CSharp.csproj|solutionrelative:productmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{449C9831-B813-46F9-A8D8-F663EF099892}|LIGNex1_CSharp.csproj|c:\\users\\user\\desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\lignex1\\lignex1_csharp\\1st day\\indiv\\day2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{449C9831-B813-46F9-A8D8-F663EF099892}|LIGNex1_CSharp.csproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_CSharp\\1st day\\indiv\\day2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{449C9831-B813-46F9-A8D8-F663EF099892}|LIGNex1_CSharp.csproj|solutionrelative:day2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{449C9831-B813-46F9-A8D8-F663EF099892}|LIGNex1_CSharp.csproj|c:\\users\\user\\desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\lignex1\\lignex1_csharp\\1st day\\indiv\\20250203_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{449C9831-B813-46F9-A8D8-F663EF099892}|LIGNex1_CSharp.csproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_CSharp\\1st day\\indiv\\20250203_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{449C9831-B813-46F9-A8D8-F663EF099892}|LIGNex1_CSharp.csproj|solutionrelative:20250203_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{449C9831-B813-46F9-A8D8-F663EF099892}|LIGNex1_CSharp.csproj|c:\\users\\user\\desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\lignex1\\lignex1_csharp\\1st day\\indiv\\20250203_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{449C9831-B813-46F9-A8D8-F663EF099892}|LIGNex1_CSharp.csproj|C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_CSharp\\1st day\\indiv\\20250203_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{449C9831-B813-46F9-A8D8-F663EF099892}|LIGNex1_CSharp.csproj|solutionrelative:20250203_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "ProductManage.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\\uAC15\uC758\uC790\uB8CC \uBAA8\uC74C\\LIGNex1\\LIGNex1_CSharp\\1st day\\indiv\\ProductManage.cs",
               "RelativeToolTip": "ProductManage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwFgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T02:03:32.976Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "day2.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAywA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T00:24:55.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T00:24:55.118Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "20250203_3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADgvwoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T00:23:48.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T00:23:48.119Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "20250203_2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T00:23:46.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T00:23:46.773Z"
             }
           ]
         }
